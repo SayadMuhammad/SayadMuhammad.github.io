@@ -113,7 +113,7 @@ h1 {
   overflow: hidden;
   border-right: .25em solid rgb(255, 102, 0);
   white-space: nowrap;
-  animation: typing 6s steps(30, end), blink-caret .75s step-end infinite;
+  animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
   animation-fill-mode: forwards;
 }
 
